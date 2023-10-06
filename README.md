@@ -24,3 +24,6 @@ Enter your weight in kilograms and height in centimeters.
 Click the "Calculate" button to see the result.
 
 Your BMI will be displayed, along with a indicator of your BMI category (e.g., underweight, normal weight, obese).
+
+you can get a preview of BMI Calculator app by clicking the below link
+https://iamkrish03.github.io/BMI-Calculator/
